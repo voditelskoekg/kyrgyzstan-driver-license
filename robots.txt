@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://voditelskoekg.github.io/kyrgyzstan-driver-license/sitemap.xml
